@@ -1,6 +1,6 @@
 # To-Do App
 
-A simple Flutter app for managing your to-do list. Add and edit and tasks .
+A simple Flutter app for managing your to-do list. Add and edit tasks .
 
 ## Features
 - Add new tasks
