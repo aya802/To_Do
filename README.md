@@ -1,16 +1,23 @@
-# interview1
+# To-Do App
 
-A new Flutter project.
+A simple Flutter app for managing your to-do list. Add and edit and tasks .
 
-## Getting Started
+## Features
+- Add new tasks
+- Edit existing tasks
+- Persist tasks using SQLite database
 
-This project is a starting point for a Flutter application.
+## Installation
+1. Clone this repository.
+2. Run `flutter pub get` to install dependencies.
+3. Connect your device or start an emulator.
+4. Run `flutter run` to launch the app.
+                                         
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
+- Add a new task by tapping the "+" button.
+- Edit a task by tapping on it.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Acknowledgments
+- Thanks to the Flutter community for their support.
