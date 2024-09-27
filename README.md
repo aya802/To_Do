@@ -1,4 +1,4 @@
-# To-Do App
+
 
 A simple Flutter app for managing your to-do list. Add and edit tasks .
 
@@ -8,10 +8,11 @@ A simple Flutter app for managing your to-do list. Add and edit tasks .
 - Persist tasks using SQLite database
 
 ## Screenshots
-![img1 _Note_App](https://github.com/user-attachments/assets/95c200ea-1214-40e4-b5fd-e3742db33ec8)
-![img2_Note_App](https://github.com/user-attachments/assets/6cfdaeb1-b67c-4703-8220-dcae0ca176e9)
-![img3 _Note_App](https://github.com/user-attachments/assets/2338a98a-a551-4bb9-8741-f6225842779a)
-![img4_Note_App](https://github.com/user-attachments/assets/f569e6c1-556a-4806-ad1d-b458a60093bc)
+![img_1](https://github.com/user-attachments/assets/8546b045-2474-4427-b4fa-187fc2e1ee81)
+![img_2](https://github.com/user-attachments/assets/643afdfc-ff0f-40f1-bac6-0b37152d59b6)
+![img_3](https://github.com/user-attachments/assets/3fa7fe97-0a40-40e5-a435-d5a2c4fa771f)
+![img_4](https://github.com/user-attachments/assets/04d450d8-37b9-4eac-add0-bd895c8193fa)
+
 
 
 ## Installation
